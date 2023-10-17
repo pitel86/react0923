@@ -1,0 +1,13 @@
+.darkMode{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    height: 20vh;
+}
+
+.lightMode{
+    background-color: whitesmoke;
+    color: darkblue;
+    font-size: 20px;
+    height: 20vh;
+}
